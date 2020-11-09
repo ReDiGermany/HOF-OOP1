@@ -1,0 +1,6 @@
+# Default ignored files
+/workspace.xml
+/out
+/out/*
+*.7z
+*.zip
